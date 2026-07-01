@@ -45,7 +45,6 @@ public class Q8 {
                 second = h;
             }
         }
-
         return second;
     }
 }

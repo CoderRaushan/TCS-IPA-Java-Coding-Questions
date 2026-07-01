@@ -89,6 +89,7 @@ public class Q6 {
         Collections.sort(list);
 
         return list.toArray(new Integer[list.size()]);
+        
     }
 }
 
